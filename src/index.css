@@ -8,4 +8,6 @@
   font-weight: 400;
 }
 
-
+#root {
+  height: 100vh;
+}
