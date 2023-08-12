@@ -1,4 +1,4 @@
-const Home = () => {
+const Dashboard = () => {
   return (
     <div className="flex-1 px-2 py-10">
       <div className="flex justify-between items-center">
@@ -64,4 +64,4 @@ const Home = () => {
   );
 };
 
-export default Home;
+export default Dashboard;
